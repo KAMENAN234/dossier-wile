@@ -15,9 +15,9 @@ for(let age= 11; age <= 20;age++){
     console.log("recette total:" + recette +"FCFA");
     console.log("billets à 1500 FCFA :" + billetsmoins16);
     console.log("billets à 2500 FCFA :" + billetsplus16);
-    
+    }
+
 
     
 
     
-}
