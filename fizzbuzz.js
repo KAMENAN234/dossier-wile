@@ -1,4 +1,13 @@
-if((n%3)== 0 && (n%5)==){
+let i = 1;
+while (i<= 30){
+    if (i % 3 === 0 && i % 5=== 0) {
+        console.log("FizzBuzz");
+    }else if (i % 3 === 0 ){
+        console.log ("Fizz");
+    }else if (i % 5 === 0){
+        console.log ("Buzz");
+    }else {
+        console.log(i);
+    }
+    i++;
 }
-    console.log("FizzBizz");
-if
